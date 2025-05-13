@@ -1,4 +1,4 @@
-# Hướng Dẫn Cài Đặt Dự Án
+# Hướng Dẫn Cài Đặt Dự Ánn
 
 ## Yêu Cầu Hệ Thống
 Trước khi cài đặt, đảm bảo rằng bạn đã cài đặt các công cụ sau:
